@@ -1,0 +1,23 @@
+name: jacob
+favicon: null
+layout_spectrum: 0.359063068870455
+typography_spectrum: 0.3048475543037057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1474769867490977
+  lightness: 0.22048469469882548
+  saturation: 0.4184288433752954
+  rhythmicContrast: 0.6494931601919234
+purpose: []
